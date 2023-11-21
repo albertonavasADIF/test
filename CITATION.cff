@@ -1,0 +1,18 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Repositorio de Prueba para el MEGD
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Alberto
+    family-names: Navas Rubio
+    email: alberto.navas@adif.es
+    name-particle: Alberto
+abstract: Creacion de repositorio
+license: Artistic-1.0-Perl
+version: '1.0'
+date-released: '2023-11-21'
